@@ -2,27 +2,27 @@
 
 ### _Innovative Audio-Visual & Digital Solutions Provider | Pune, India_
 
-Welcome to the official GitHub of **Visual Synergy Pvt. Ltd.**, a forward-thinking company specializing in **Audio-Visual system integration**, **corporate AV installations**, and **digital solutions** for commercial, educational, and enterprise clients.
+Welcome to the official GitHub of **Visual Synergy Pvt. Ltd.**, a fast-growing company specializing in **Audio-Visual system integration**, **corporate AV installations**, and **digital transformation solutions** for commercial, educational, and enterprise environments.
 
 ---
 
 ## 🚀 About Us
 
-We combine **technology**, **creativity**, and **precision** to deliver outstanding AV and web experiences.  
-From boardrooms to classrooms, we design and implement solutions that bring spaces to life.
+At **Visual Synergy**, we merge **technology**, **design**, and **precision** to deliver seamless Audio-Visual and digital experiences.  
+Our expertise covers a wide range of services from professional AV installations to full-stack web solutions.
 
-🎯 **Our Focus Areas**
-- Professional **Audio-Visual Installations**
-- Corporate and Educational **AV System Integration**
-- **Web Development** and Digital Branding
-- **Smart Display** and Video Wall Solutions
+🎯 **Core Services**
+- Professional **Audio-Visual System Integration**
+- **Corporate & Educational AV Installations**
+- **Website Development** and Digital Branding
+- **Smart Displays**, **Video Walls**, and Control Systems
 - Technical **Support & Maintenance**
 
 ---
 
 ## 💡 Website Project
 
-This repository hosts the code for our official website:  
+This repository contains the source code of our official website:  
 🔗 [www.visualsynergygroup.com](https://www.visualsynergygroup.com)
 
 **Tech Stack**
@@ -33,12 +33,26 @@ This repository hosts the code for our official website:
 
 ---
 
-## 👨‍💻 Our Team
+## 👨‍💼 Management & Leadership
 
-**Project Lead:** [Jay Prakash (Jay Singh)](https://www.linkedin.com/in/jaysingh9518)  
-**Company:** [Visual Synergy Pvt. Ltd.](https://www.linkedin.com/company/visual-synergy-pvt-ltd)
+### **Manager: Jay Singh (Jay Prakash)**
+👤 [GitHub Profile](https://github.com/jaysingh9518)  
+💼 [LinkedIn](https://www.linkedin.com/in/jaysingh9518)  
 
-We’re a small, passionate team of engineers, designers, and AV specialists committed to creating seamless tech experiences.
+Jay Singh leads the **Web & Digital Division** at Visual Synergy Pvt. Ltd. with a focus on developing modern, performance-driven websites and integrated digital solutions.  
+With experience spanning **web development, project management, and AV integration**, he ensures the company’s online presence reflects its technical and creative strengths.
+
+---
+
+## 🧰 Skills & Technologies
+
+| Category | Tools / Tech |
+|-----------|---------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
+| **Backend** | Node.js, Express, REST APIs |
+| **Deployment** | Vercel, GitHub, cPanel |
+| **Design & Media** | Adobe Creative Suite, Canva |
+| **AV Expertise** | System Integration, Display Solutions, Installation |
 
 ---
 
@@ -53,18 +67,6 @@ We’re a small, passionate team of engineers, designers, and AV specialists com
 
 ---
 
-## 🧰 Skills & Technologies
-
-| Category | Tools / Tech |
-|-----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js |
-| **Backend** | Node.js, Express, REST APIs |
-| **Deployment** | Vercel, GitHub, cPanel |
-| **Design & Media** | Adobe Suite, Canva |
-| **AV Expertise** | System Integration, Display Solutions, Installation |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -76,15 +78,15 @@ We’re a small, passionate team of engineers, designers, and AV specialists com
 
 ## 🏆 Achievements
 
-✨ Building an innovative presence in India’s Audio-Visual industry  
-🎨 Blending design, technology, and experience  
-🚀 Expanding digital capabilities with modern web technologies  
+✨ Recognized for innovative AV and digital integration in Pune  
+🎨 Bridging creativity and technology through modern solutions  
+🚀 Expanding presence across India with a focus on quality and service  
 
 ---
 
 ## 📫 Contact Us
 📍 Pune, India  
-📧 info@visualsynergy.in  
+📧 support@visualsynergygroup.com  
 
 ---
 
